@@ -1,0 +1,46 @@
+﻿Build started 2015-04-12 09:31:33.
+     1>Project "S:\Users\Shagg\Desktop\ZadanieDomowe_5\ZadanieDomowe_5\ZadanieDomowe_5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"S:\Program Files\Common Files\MSVC\freeglut\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt freeglut.cpp global.cpp klasa_auto.cpp klasa_boost.cpp klasa_prostokat.cpp
+         klasa_prostokat.cpp
+         global.cpp
+         Generating Code...
+         Compiling...
+         klasa_boost.cpp
+         freeglut.cpp
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(132): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(134): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(137): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(139): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(142): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(144): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(147): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(149): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(152): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(154): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(158): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(160): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(163): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(165): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(168): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(170): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(173): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(175): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(178): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>s:\users\shagg\desktop\zadaniedomowe_5\zadaniedomowe_5\freeglut.cpp(180): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         klasa_auto.cpp
+       Link:
+         S:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"S:\Users\Shagg\Desktop\ZadanieDomowe_5\Debug\ZadanieDomowe_5.exe" /INCREMENTAL /NOLOGO /LIBPATH:"S:\Program Files\Common Files\MSVC\freeglut\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"S:\Users\Shagg\Desktop\ZadanieDomowe_5\Debug\ZadanieDomowe_5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"S:\Users\Shagg\Desktop\ZadanieDomowe_5\Debug\ZadanieDomowe_5.lib" /MACHINE:X86 Debug\freeglut.obj
+         Debug\freeglut_klawiatura.obj
+         Debug\global.obj
+         Debug\klasa_auto.obj
+         Debug\klasa_boost.obj
+         Debug\klasa_prostokat.obj
+         ZadanieDomowe_5.vcxproj -> S:\Users\Shagg\Desktop\ZadanieDomowe_5\Debug\ZadanieDomowe_5.exe
+     1>Done Building Project "S:\Users\Shagg\Desktop\ZadanieDomowe_5\ZadanieDomowe_5\ZadanieDomowe_5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.37
